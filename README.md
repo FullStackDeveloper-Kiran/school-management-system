@@ -60,13 +60,15 @@ Last but not least, a clean and simple dashboard is presented with various color
 
 # PROJECT DESCRIPTION: 
 
-| Project Name | Description |
+| Synopsis | Description |
 | --- | --- |
-| Language/s Used | Description |
+| Project Name | School Management System |
+|  |  |
+| Language/s Used | HTML , CSS, JS, PHP & My SQL |
 |  |  |
 | PHP version | Description |
-| --- | --- |
-| Database | Description |
-| --- | --- |
-| Developer | Description |
-| --- | --- |
+|  |  |
+| Database | My SQL |
+|  |  |
+| Developer | Kiran |
+|  |  |
