@@ -60,13 +60,13 @@ Last but not least, a clean and simple dashboard is presented with various color
 
 # PROJECT DESCRIPTION: 
 
-| Command | Description |
+| Project Name | Description |
 | --- | --- |
-| Command | Description |
+| Language/s Used | Description |
+|  |  |
+| PHP version | Description |
 | --- | --- |
-| Command | Description |
+| Database | Description |
 | --- | --- |
-| Command | Description |
-| --- | --- |
-| Command | Description |
+| Developer | Description |
 | --- | --- |
