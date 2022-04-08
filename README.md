@@ -60,10 +60,13 @@ Last but not least, a clean and simple dashboard is presented with various color
 
 # PROJECT DESCRIPTION: 
 
-| Project Name: | School Management System
-| Languages Used: | 
-| PHP Version : | 
-| Type : | 
-| Developer: | 
-| Project Name: |    
-
+| Command | Description |
+| --- | --- |
+| Command | Description |
+| --- | --- |
+| Command | Description |
+| --- | --- |
+| Command | Description |
+| --- | --- |
+| Command | Description |
+| --- | --- |
